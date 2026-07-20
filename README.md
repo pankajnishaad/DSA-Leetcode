@@ -23,4 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
