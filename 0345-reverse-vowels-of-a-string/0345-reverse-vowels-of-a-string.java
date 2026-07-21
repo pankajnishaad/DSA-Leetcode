@@ -6,33 +6,29 @@ class Solution {
                ch == 'o' || ch == 'u';
     }
     public String reverseVowels(String s) {
-        List<Character> vowels = new ArrayList<>();
+        char[] arr = s.toCharArray();
 
-        // Store all vowels
-        for (char ch : s.toCharArray()) {
-            if (isVowel(ch)) {
-                vowels.add(ch);
+        int left = 0;
+        int right = arr.length - 1;
+
+        while (left < right) {
+
+            while (left < right && !isVowel(arr[left])) {
+                left++;
             }
+
+            while (left < right && !isVowel(arr[right])) {
+                right--;
+            }
+
+            char temp = arr[left];
+            arr[left] = arr[right];
+            arr[right] = temp;
+
+            left++;
+            right--;
         }
 
-        // Reverse the vowel list
-        Collections.reverse(vowels);
-
-        StringBuilder ans = new StringBuilder();
-
-        int index = 0;
-
-        // Replace vowels with reversed vowels
-        for (char ch : s.toCharArray()) {
-
-            if (isVowel(ch)) {
-                ans.append(vowels.get(index));
-                index++;
-            } else {
-                ans.append(ch);
-            }
-        }
-
-        return ans.toString();
+        return new String(arr);
     }
 }
