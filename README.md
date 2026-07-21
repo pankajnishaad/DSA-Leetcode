@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
