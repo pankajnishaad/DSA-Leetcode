@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [3310-remove-methods-from-project](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -166,8 +168,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
