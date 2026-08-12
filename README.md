@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/3731-find-missing-elements) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/3731-find-missing-elements) |
