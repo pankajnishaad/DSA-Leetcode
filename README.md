@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0202-happy-number](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Enumeration
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1406-stone-game-iii) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0202-happy-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/3731-find-missing-elements) |
@@ -199,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0196-delete-duplicate-emails) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
