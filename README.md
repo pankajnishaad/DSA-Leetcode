@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0367-valid-perfect-square) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [1386-cinema-seat-allocation](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0342-power-of-four) |
 ## Binary Search
