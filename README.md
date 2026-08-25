@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1148-article-views-i](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1148-article-views-i) |
 | [3436-find-valid-emails](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/3436-find-valid-emails) |
 ## Floyd's Cycle Finding Algorithm
 |  |
