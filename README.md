@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [3436-find-valid-emails](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/3436-find-valid-emails) |
 ## Floyd's Cycle Finding Algorithm
 |  |
