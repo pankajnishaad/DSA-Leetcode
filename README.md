@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0015-3sum) |
+| [0046-permutations](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0046-permutations) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0724-find-pivot-index](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0877-stone-game) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0046-permutations) |
 | [0257-binary-tree-paths](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0257-binary-tree-paths) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
