@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0051-n-queens) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0724-find-pivot-index](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0877-stone-game) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0257-binary-tree-paths) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -406,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0292-nim-game) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
