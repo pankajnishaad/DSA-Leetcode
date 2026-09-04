@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0724-find-pivot-index](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1140-stone-game-ii](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0290-word-pattern) |
+| [0904-fruit-into-baskets](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
