@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0079-word-search](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0257-binary-tree-paths) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0079-word-search) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0724-find-pivot-index](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0877-stone-game) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0110-balanced-binary-tree) |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0257-binary-tree-paths) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
