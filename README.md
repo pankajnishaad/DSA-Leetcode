@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0560-subarray-sum-equals-k](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0290-word-pattern) |
+| [0560-subarray-sum-equals-k](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1872-stone-game-viii) |
