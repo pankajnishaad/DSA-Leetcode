@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [1386-cinema-seat-allocation](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -453,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0037-sudoku-solver) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
