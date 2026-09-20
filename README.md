@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0134-gas-station) |
 | [0763-partition-labels](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0763-partition-labels) |
+| [0846-hand-of-straights](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0846-hand-of-straights) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0835-image-overlap) |
+| [0846-hand-of-straights](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0846-hand-of-straights) |
 | [0877-stone-game](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1140-stone-game-ii](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1140-stone-game-ii) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0846-hand-of-straights](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0846-hand-of-straights) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0763-partition-labels) |
+| [0846-hand-of-straights](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
