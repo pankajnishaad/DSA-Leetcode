@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1927-sum-game) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0846-hand-of-straights](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0846-hand-of-straights) |
+| [1096-brace-expansion-ii](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0112-path-sum) |
+| [1096-brace-expansion-ii](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -345,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0257-binary-tree-paths) |
+| [1096-brace-expansion-ii](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
