@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1406-stone-game-iii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0846-hand-of-straights](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0846-hand-of-straights) |
 | [1096-brace-expansion-ii](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -583,4 +585,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
