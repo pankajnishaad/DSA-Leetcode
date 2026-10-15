@@ -1,0 +1,36 @@
+class Solution {
+    public boolean checkInclusion(String s1, String s2) {
+        int m=s1.length();
+        int n=s2.length();
+        if(m>n) return false;
+        int[] freq1=new int[26];
+        int[] freq2=new int[26];
+        for(int i=0; i<m; i++)
+        {
+            freq1[s1.charAt(i)-'a']++;
+            freq2[s2.charAt(i)-'a']++;
+        }
+        if(matches(freq1, freq2))
+        {
+            return true;
+        }
+        for(int right=m; right<n; right++)
+        {
+            freq2[s2.charAt(right)-'a']++;
+            freq2[s2.charAt(right-m)-'a']--;
+            if(matches(freq1, freq2))
+            {
+                return true;
+            }
+        }
+        return false;
+    }
+    private boolean matches(int [] a, int[] b)
+    {
+        for(int i=0; i<26; i++)
+        {
+            if(a[i]!=b[i]) return false;
+        }
+        return true;
+    }
+}
