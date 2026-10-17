@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0171-excel-sheet-column-number](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0290-word-pattern) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
