@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0567-permutation-in-string) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Tree
 |  |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0486-predict-the-winner) |
