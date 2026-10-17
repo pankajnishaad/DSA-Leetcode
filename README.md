@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0079-word-search) |
+| [0118-pascals-triangle](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
