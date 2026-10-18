@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0856-score-of-parentheses) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0460-lfu-cache](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
