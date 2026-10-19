@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0015-3sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0049-group-anagrams) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
