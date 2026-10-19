@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0051-n-queens) |
+| [0074-search-a-2d-matrix](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0118-pascals-triangle) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0278-first-bad-version) |
