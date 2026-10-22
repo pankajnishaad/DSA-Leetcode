@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0402-remove-k-digits](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0567-permutation-in-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0735-asteroid-collision) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0134-gas-station) |
+| [0402-remove-k-digits](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0846-hand-of-straights) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
