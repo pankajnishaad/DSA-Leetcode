@@ -1,12 +1,25 @@
 class Solution {
+    private int distance(int[] point)
+    {
+        return point[0]*point[0]+ point[1]*point[1];
+    }
     public int[][] kClosest(int[][] points, int k) {
-       Arrays.sort(points, (a,b)->
+        PriorityQueue<int[]>maxHeap=new PriorityQueue<>((a,b)->Integer.compare(
+            distance(b), distance(a)
+        ));
+        for(int[] point: points)
+        {
+            maxHeap.offer(point);
+            if(maxHeap.size()>k)
             {
-                int disA=a[0]*a[0]+a[1]*a[1];
-                int disB=b[0]*b[0]+b[1]*b[1];
-                return Integer.compare(disA, disB);
+                maxHeap.poll();
             }
-       ); 
-       return Arrays.copyOfRange(points, 0, k);
+        }
+        int[][] ans=new int[k][2];
+        for(int i=0; i<k; i++)
+        {
+            ans[i]=maxHeap.poll();
+        }
+        return ans;
     }
 }
