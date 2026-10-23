@@ -5,14 +5,19 @@ class Solution {
        {
         freqMap.put(num, freqMap.getOrDefault(num, 0)+1);
        }
-       List<Integer>val=new ArrayList<>(freqMap.keySet());
-        val.sort(
-            (a, b)-> freqMap.get(b)-freqMap.get(a)
-        );
+       PriorityQueue<Integer>minHeap=new PriorityQueue<>((a,b)->freqMap.get(a)-freqMap.get(b));
+       for(int num: freqMap.keySet())
+       {
+            minHeap.offer(num);
+            if(minHeap.size()>k)
+            {
+                minHeap.poll();
+            }
+       }
         int[] ans=new int[k];
         for(int i=0; i<k; i++)
         {
-            ans[i]=val.get(i);
+            ans[i]=minHeap.poll();
         }
         return ans;
     }
