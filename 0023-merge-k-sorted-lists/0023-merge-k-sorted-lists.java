@@ -10,22 +10,48 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        List<Integer> values=new ArrayList<>();
+        // List<Integer> values=new ArrayList<>();
+        // for(ListNode head: lists)
+        // {
+        //     while(head!=null)
+        //     {
+        //         values.add(head.val);
+        //         head=head.next;
+        //     }
+        // }
+        // Collections.sort(values);
+        // ListNode dummy=new ListNode(0);
+        // ListNode curr=dummy;
+        // for(int val: values)
+        // {
+        //     curr.next=new ListNode(val);
+        //     curr=curr.next;
+        // }
+        // return dummy.next;
+
+
+        //using minheap
+
+        PriorityQueue<ListNode>minHeap=new PriorityQueue<>((a,b)->Integer.compare(a.val, b.val));
+
         for(ListNode head: lists)
         {
-            while(head!=null)
+            if(head!=null)
             {
-                values.add(head.val);
-                head=head.next;
+                minHeap.offer(head);
             }
         }
-        Collections.sort(values);
         ListNode dummy=new ListNode(0);
         ListNode curr=dummy;
-        for(int val: values)
+        while(!minHeap.isEmpty())
         {
-            curr.next=new ListNode(val);
+            ListNode smallest=minHeap.poll();
+            curr.next=smallest;
             curr=curr.next;
+            if(smallest.next!=null)
+            {
+                minHeap.offer(smallest.next);
+            }
         }
         return dummy.next;
     }
