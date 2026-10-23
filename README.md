@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0460-lfu-cache](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
@@ -827,4 +831,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/pankajnishaad/DSA-Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
