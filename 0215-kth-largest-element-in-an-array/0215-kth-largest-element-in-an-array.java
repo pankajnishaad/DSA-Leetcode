@@ -4,15 +4,27 @@ class Solution {
         // return nums[nums.length-k];
 
         // using priorityqueue- minHeap
-        PriorityQueue<Integer>minHeap=new PriorityQueue<>();
+        // PriorityQueue<Integer>minHeap=new PriorityQueue<>();
+        // for(int num: nums)
+        // {
+        //     minHeap.offer(num);
+        //     if(minHeap.size()>k)
+        //     {
+        //         minHeap.poll();
+        //     }
+        // }
+        // return minHeap.peek();
+
+        // using priorityqueue- maxHeap
+        PriorityQueue<Integer>maxHeap=new PriorityQueue<>(Collections.reverseOrder());
         for(int num: nums)
         {
-            minHeap.offer(num);
-            if(minHeap.size()>k)
-            {
-                minHeap.poll();
-            }
+            maxHeap.offer(num);   
         }
-        return minHeap.peek();
+        for(int i=1; i<k; i++)
+        {
+            maxHeap.poll();   
+        }
+        return  maxHeap.poll();  
     }
 }
